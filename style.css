@@ -1,0 +1,160 @@
+/*LINKS DE FONTES*/
+@font-face {
+    font-family: 'Yeseva';
+    src: url(Yeseva_One/YesevaOne-Regular.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Lato';
+    src: url(Lato/Lato-Regular.ttf) format('truetype');
+}
+
+#fonte{
+    font-family: 'Lato', Arial, serif;
+}
+
+/*Navegação Superior*/
+#superior{
+    margin-left: 100px;
+}
+
+.navbar-brand{
+    margin-left: 20px;
+    font-family: 'Yeseva', Arial, serif;
+}
+
+#titulo{
+    margin-top: 15px;
+    font-size: 38px;
+}
+
+#pesquisa{ 
+    border-radius: 30px;
+    width: 500px;
+    height: 35px;
+    margin-top: 10px;
+}
+
+#butao{
+    margin-right: 200px;
+    border-radius: 20px;
+    height: 35px;
+    margin-top: 10px;
+    font-family: 'Lato', Arial, serif;
+}
+
+#drop{
+    margin-right: 30px;
+}
+
+/*Navegação Lateral*/
+#lateral{
+    background-color: rgb(154, 116, 202);
+    width: 82px;
+    height: 96vh;
+    margin-left: 8px;
+    border-radius: 20px;
+    position: absolute;
+    margin-top: 10px;
+    position: fixed;
+}
+
+#sim{
+    border: none;
+    background: none;
+    margin-left: -7px;
+}
+
+/*Divisão*/
+#divisao{
+    margin-left: 140px;
+    margin-top: 10px;
+    font-family: 'Lato', Arial, serif;
+}
+
+/*Cards*/
+#card1{
+    margin-left: 85px;
+    box-shadow: 10px 10px 15px rgba(141, 99, 195, 0.541);
+    transition: .6s;
+}
+#card1:hover{
+    box-shadow: 10px 10px 15px rgba(141, 99, 195, 0.74);
+    transform: scale(1.02);
+}
+
+#card2{
+    margin-left: 15px;
+    box-shadow: 10px 10px 15px rgba(141, 99, 195, 0.541);
+    transition: .6s;
+}
+
+#card2:hover{
+    box-shadow: 10px 10px 15px rgba(141, 99, 195, 0.74);
+    transform: scale(1.02);
+}
+
+#card3{
+    margin-left: 85px;
+    box-shadow: 10px 10px 15px rgba(141, 99, 195, 0.541);
+    transition: .6s;
+}
+
+#card3:hover{
+    box-shadow: 10px 10px 15px rgba(141, 99, 195, 0.74);
+    transform: scale(1.02);
+}
+
+.card-title{
+    font-family: 'Lato', Arial, serif;
+}
+
+.card-text{
+    font-family: 'Lato', Arial, serif;
+}
+
+.alert{
+    text-align: center;
+}
+
+#trans{
+    margin-left: 10px;
+}
+
+::selection{
+    background-color: rgba(141, 99, 195, 0.541);
+}
+
+/*Rodapé*/
+#geral{
+  bottom: 0;
+  width: 90%;
+  height: 1vh; 
+  margin-left: 100px;
+}
+
+#politica{
+    margin-inline-end: auto;
+}
+
+/*Imagens*/
+#casa1{
+    width: 33px;
+    height: 33px;
+    margin-top: 30px;
+}
+
+#casa{
+    width: 33px;
+    height: 33px;
+    margin-top: -2px;
+}
+
+#gato{
+    width: 50px;
+    height: 50px;
+}
+
+#configu{
+    width: 33px;
+    height: 33px;
+}
