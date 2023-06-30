@@ -136,6 +136,10 @@
     margin-inline-end: auto;
 }
 
+.yes{
+    margin-top: 15vh;
+}
+
 /*Imagens*/
 #casa1{
     width: 33px;
