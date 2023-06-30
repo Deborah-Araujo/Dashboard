@@ -130,11 +130,14 @@
   width: 90%;
   height: 1vh; 
   margin-left: 100px;
-  margin-top: 6vh;
 }
 
 #politica{
     margin-inline-end: auto;
+}
+
+p{
+    margin-top: 6vh;
 }
 
 /*Imagens*/
